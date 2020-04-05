@@ -1,6 +1,0 @@
-bash
-git add .
-git commit -m "xxx"
-git push
-
-¿ËÂ¡´úÂë£ºgit clone µØÖ·
